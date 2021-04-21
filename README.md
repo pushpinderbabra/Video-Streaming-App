@@ -24,7 +24,7 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
 ****
 - The Login and Registration process is by connecting to firebase.
 - The feedback is stored in firebase realtime database.
-- We need to upload a viedo in order to user to view it from any place.
+- We need to upload a video in order to user to view it from any place.
 
 ### Application user interface
 ****
