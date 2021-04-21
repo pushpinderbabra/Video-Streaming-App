@@ -4,7 +4,7 @@ Video Streaming app with user login,register,feedback system.
 
 
 A  VideoStreaming using Firebase is a piece of software that in which user can register them self using Mail id and Password,
-and login to the app.The app is basically a viedio streaming app where we can upload a video and stream the vedio in full screen.
+and login to the app.The app is basically a video streaming app where we can upload a video and stream the video in full screen.
 
 The app provide the inbuit player where we can watch vedio of movie in Fill Screen mood with pause ,play,forword and backword funtionality.
 
